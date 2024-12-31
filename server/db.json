@@ -1,0 +1,129 @@
+{
+  "category": [
+    "wood",
+    "plastic",
+    "paper"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "GitHub #12",
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149831/tutorial-content/video-corsi/ngrx/image-keychains/github-2.jpg",
+      "type": "wood"
+    },
+    {
+      "id": 2,
+      "name": "GitHub #2",
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149830/tutorial-content/video-corsi/ngrx/image-keychains/github-1.jpg",
+      "type": "wood"
+    },
+    {
+      "id": 3,
+      "name": "Angular #1",
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149827/tutorial-content/video-corsi/ngrx/image-keychains/angular-1.jpg",
+      "type": "wood"
+    },
+    {
+      "id": 4,
+      "name": "Angular #2",
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149828/tutorial-content/video-corsi/ngrx/image-keychains/angular-2.jpg",
+      "type": "wood"
+    },
+    {
+      "id": 5,
+      "name": "React",
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149835/tutorial-content/video-corsi/ngrx/image-keychains/react.jpg",
+      "type": "wood"
+    },
+    {
+      "name": "Vue",
+      "id": 6,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149836/tutorial-content/video-corsi/ngrx/image-keychains/vue.jpg",
+      "type": "wood"
+    },
+    {
+      "name": "JS #1",
+      "id": 7,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149834/tutorial-content/video-corsi/ngrx/image-keychains/js-2.jpg",
+      "type": "wood"
+    },
+    {
+      "name": "JS #2",
+      "id": 8,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149833/tutorial-content/video-corsi/ngrx/image-keychains/js-1.jpg",
+      "type": "wood"
+    },
+    {
+      "name": "Fabio Biondi",
+      "id": 9,
+      "cost": 1,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712149829/tutorial-content/video-corsi/ngrx/image-keychains/fb.jpg",
+      "type": "wood"
+    },
+    {
+      "name": "Bullet",
+      "id": 10,
+      "cost": 1,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217743/tutorial-content/video-corsi/ngrx/image-keychains/bullet.jpg",
+      "type": "plastic"
+    },
+    {
+      "name": "Coaster",
+      "id": 11,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217743/tutorial-content/video-corsi/ngrx/image-keychains/coaster.jpg",
+      "type": "paper"
+    },
+    {
+      "name": "KeyChain Big",
+      "id": 12,
+      "cost": 4,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217744/tutorial-content/video-corsi/ngrx/image-keychains/keychain-big.jpg",
+      "type": "plastic"
+    },
+    {
+      "name": "KeyChain Small",
+      "id": 13,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217745/tutorial-content/video-corsi/ngrx/image-keychains/keychain-small.jpg",
+      "type": "plastic"
+    },
+    {
+      "name": "Bubble Mailers",
+      "id": 14,
+      "cost": 2,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217747/tutorial-content/video-corsi/ngrx/image-keychains/poly-mailers.jpg",
+      "type": "plastic"
+    },
+    {
+      "name": "Sticker Sheets",
+      "id": 15,
+      "cost": 3,
+      "image": "https://res.cloudinary.com/my-notes-demo/image/upload/v1712217748/tutorial-content/video-corsi/ngrx/image-keychains/sticker-sheet.jpg",
+      "type": "plastic"
+    },
+    {
+      "name": "test",
+      "id": 16
+    },
+    {
+      "name": "test2",
+      "id": 17
+    }
+  ],
+  "orders": [],
+  "login": {
+    "token": "abc123"
+  },
+  "profile": {
+    "displayName": "Simone Cardinale"
+  }
+}
